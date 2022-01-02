@@ -1,6 +1,6 @@
 ## Hi there 👋, Im Esteban Saravia.
 
-### I'm a passionate software developer from chile 🇨🇱, currenty I live in Talca, a beatiful city in the Maule Valey, Chile.
+### I'm a passionate software developer from chile 🇨🇱, currenty I live in Talca, a beautiful city in the Maule Valey, Chile.
                                                                                         
 
 🌱 I’m currently learning about Domain Driven Disign, more particular Hexagonal Architecture aplicated to Typescript Proyects
